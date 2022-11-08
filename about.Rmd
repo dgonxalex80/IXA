@@ -1,0 +1,19 @@
+---
+title: "Plataforma de vigilancia epidemiológica"
+---
+
+Con la experiencia del Covid-19 los entes de salud ha generado diferentes estrategias de salud pública que les pemite realizar seguimiento a los focos de contagio con el fin de realizar estrategias preventivas. Ahora despues de la pandemia se requiere utilizar estos aprendizajes para hacer seguimiento a otros tipos de emfermedades que generan altos costos a la salud.
+
+A partir de bases de datos de pacientes 
+
+  + se caracterizan los diferentes grupos de patologías de tal forma que permitan generar programas para su prevencion
+  + se construyen modelos que permitan encontar patrones de comportamiento y de relaciones entre los diferentes factores asociados con las patologias
+  + se automatiza la metodologia que permite la incorporacion de otros actores
+  + finalmente la informacio resultante se visualiza en un tablero que permite la toma de decisiones en tiempo real
+  
+  
+  
+```{r, echo=FALSE, out.width="80%", fig.align = "center"}
+knitr::include_graphics("img/pascal.png")
+```
+
